@@ -1,0 +1,22 @@
+---
+title: "partner"
+author: "Matthew Eisner"
+date: "8/25/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Name: Matthew Eisner  
+Github username: m-eisner
+
+The owner added 'all relevent files for hw1' with commit id 622e521ce04a9f984ee560c948d2046cebecfa04
+
+I was not able to knit my partner's file. This is because RStudio is looking for the image in my partner's assignment using absolute path. Since I am working on a different computer with different folder structure and folder naming the specified image path does not exist.  
+Error for reference:  
+File /Users/zackjohnson/ds202/ds202_hw1/fivethirtyeight_logo.png not found in resource path  
+Error: pandoc document conversion failed with error 99  
+Execution halted
+
+I had difficulty in reproducing my partner's code since an absolute path was used to incorporate the image.
