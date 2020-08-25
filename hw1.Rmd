@@ -1,0 +1,30 @@
+---
+title: "Homework #1"
+author: "Zack Johnson"
+date: "8/12/2020"
+output: html_document
+---
+
+  ```
+  ds
+
+  ```
+### Self Introduction:
+Hello! My name is **Zack Johnson** and I am a Junior studying *Political Science, Data Science, and Statistics*. I am pretty familiar with R and R Markdown as I have been using R to make models and clean data for about a year now! I used R and Rstan (a bayesian modeling program that uses a C++ compiler) and then I used R Markdown to make some trainings! I did both of these things this last summer working remotely for the University of Southern California's Security Policy and Political Economy Lab ([check out their website here](https://www.uscspec.org/)). While I understand I have a lot of experience with the material for this class, I look forward to relearning things in a more formal way here rather than with the lab where I was largely self taught. I also look forward to using Git (even though I performed poorly on the quiz for it) as it seems like a much more efficient tool than Google File Stream which we used in the lab.
+
+### Job Related to Data Science:
+# ![](/Users/zackjohnson/ds202/ds202_hw1/fivethirtyeight_logo.png)
+A job I wish to use my data skills for is political scientist and/or political data journalist (ala [fivethirtyeight](fivethirtyeight.com)). I have always had an interest in politics and elections since, while in my high school AP Statistics course, the 2016 election was raging and my teacher talked about models from Nate Silver's site all the time. Since then I've been extremely interested in Applied Statistics and Data Science with respect to political analysis and social science.
+
+### Topic I'm Most Interested in at the Moment:
+I started a sort of covid-19 analysis this last summer using a [YouGov Poll of various countries](https://github.com/YouGov-Data/covid-19-tracker). It's formatted as many different csv files so I had to write a bunch of different functions and use some for loops to clean and format things. Now I'm just trying to get my stan models to run so that I can segment these survey questions into latent traits that I have put them in. This is related to the political science focus I mentioned before in that I think there is a relationship and a disposition towards the virus that has something to do with how it has been politicized in the US.
+
+### Finding what version of R I'm Using
+```{r, eval=TRUE}
+version
+```
+
+### GitHub Username
+```{r, eval=FALSE}
+"zmj99"
+```
